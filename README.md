@@ -17,7 +17,7 @@ N/A
 
 ## Usage
 
-Here is the link: 
+Here is the link: https://felipesierra10.github.io/challenge-18-social-network-API/
 
 insomnia Link: https://drive.google.com/file/d/1aK3cctXk0Z0fdSGRRJ1H9lItKCP6nWBC/view?usp=drive_link
 
